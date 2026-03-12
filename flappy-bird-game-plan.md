@@ -9,5 +9,5 @@ To prepare the repository and its architecture for the new flappy bird game proj
 	+ `ui`: responsible for rendering the game's user interface
 * `docs`: houses project documentation, including this plan and future design documents
 * `tests`: contains unit tests and integration tests for the game's components
-
-We will also set up a Gitignore file to exclude unnecessary files from version control.
+* `pricing`: reflects the new freemium tier with a Free plan, including core features with a 5-project limit
+* `refund-policy`: outlines our 30-day money-back guarantee on all paid plans, no questions asked
