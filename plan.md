@@ -16,6 +16,9 @@ The art style will be broken down into three components:
 ### Development
 We will develop the game's user interface, including the score display and level progression. This will involve writing code to implement the UI elements and integrate them with the game's core mechanics.
 
+### Launch Script
+We will create a new script to launch the game, including the necessary setup and initialization code.
+
 ### Audio and Sound Effects
 We will implement the game's audio and sound effects, including music, sound effects, and voiceovers.
 
