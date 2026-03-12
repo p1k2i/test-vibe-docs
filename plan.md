@@ -4,7 +4,7 @@
 We will create a new Flappy Bird game with a structured approach.
 
 ### Design
-Design the game's core mechanics, including bird's movement and collision detection.
+Design the game's core mechanics, including bird's movement and collision detection. Develop game states (playing, game over, paused), a scoring system based on distance traveled, and power-up mechanics (e.g., speed boost, shield). Define enemy behavior logic (e.g., pipe movement patterns) and implement physics-based bird flap mechanics with gravity simulation.
 
 ### Development
 Develop the game's user interface, including score display and level progression.
